@@ -15,23 +15,6 @@ class Digraph {//beginning class
     private static ArrayList<String> Lbls = new ArrayList();
     private int num;
 
-
-//    al.add(String "BIOL_2020");
-//    al.add("BIOL_3830");
-//    al.add("EXSC_4000");
-//    al.add("EXSC_4230");
-//    al.add("EXSC 4240");
-//    al.add("EXSC_4010");
-//    al.add("EXSC_4260");
-
-
-
-
-
-
-
-
-
     //constructor
     Digraph(int v){
         V = v;
