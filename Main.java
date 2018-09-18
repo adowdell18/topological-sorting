@@ -64,24 +64,9 @@ class Digraph {//beginning class
 
     }
 
-
-
     public static void main(String args[]){
         Scanner scnr =  new Scanner(System.in);
         String fileName = "project2-testA.tab.txt";
-
-        //Lbls.add("A");
-        //FIXME: Ask about- supposed to be private data member, would not work that way however
-        //FIXME: created array list instead of array for ease of removal purposes
-        //ArrayList Lbls = new ArrayList();
-//        Lbls.add("BIOL_2010");
-//        Lbls.add("BIOL_2020");
-//        Lbls.add("EXSC_3830");
-//        Lbls.add("EXSC_4000");
-//        Lbls.add("EXSC_4230");
-//        Lbls.add("EXSC_4240");
-//        Lbls.add("EXSC_4010");
-//        Lbls.add("EXSC_4260");
 
         //Parse in course names
 
